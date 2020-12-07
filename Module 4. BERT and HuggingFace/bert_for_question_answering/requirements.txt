@@ -1,0 +1,12 @@
+future==0.18.2
+numpy==1.18.5
+torch~=1.7.0
+PyYAML~=5.3.1
+torchtext~=0.6.0
+tqdm~=4.46.1
+spacy==2.3.0
+pytest~=5.4.3
+transformers~=3.3.1
+wget~=3.2
+pandas~=1.1.2
+
