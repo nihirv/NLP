@@ -1,5 +1,6 @@
 # Custom
 .data
+checkpoint_best-seq2seq*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
