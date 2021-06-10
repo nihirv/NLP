@@ -1,3 +1,4 @@
+# Roland
 BATCH_SIZE = 512
 D_MODEL = 512
 P_DROP = 0.1
